@@ -1,0 +1,6 @@
+framework module LJTTools {
+  umbrella header "LJTTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
