@@ -7,6 +7,7 @@
 //
 
 #import "LJTViewController.h"
+#import <Test.h>
 
 @interface LJTViewController ()
 
@@ -17,6 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    Test *test = [[Test alloc]init];
+    [test getVerson];
+    NSLog(@"-=-=-=-=-=-=-=----%@",test);
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
