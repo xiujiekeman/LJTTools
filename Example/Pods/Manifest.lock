@@ -1,5 +1,5 @@
 PODS:
-  - LJTTools (0.0.1)
+  - LJTTools (0.0.2)
 
 DEPENDENCIES:
   - LJTTools (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LJTTools: 0ed0df442d07d256ed09639b0148ac4069c249ea
+  LJTTools: 97559625bbf77d8354b58cd52b12360deedb36e7
 
 PODFILE CHECKSUM: a5c1b80fb0b823074311612dee298aa60c5bdab5
 
