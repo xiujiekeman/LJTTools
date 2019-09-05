@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "LJTTools.h"
 #import "test.h"
 
 FOUNDATION_EXPORT double LJTToolsVersionNumber;

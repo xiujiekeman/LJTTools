@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LJTTools'
-  s.version          = '0.0.2'
+  s.version          = '0.0.21'
   s.summary          = 'A short description of LJTTools.'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,14 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.dependency 'AFNetworking', '3.2.1'
+   s.dependency 'SDWebImage', '5.0.1'
+   s.dependency 'Masonry', '1.1.0'
+   s.dependency 'MBProgressHUD', '1.1.0'
+   s.dependency 'MJRefresh', '~> 3.1.16'
+   s.dependency 'IQKeyboardManager', '~> 6.2.1'
+   s.dependency 'FMDB', '~> 2.7.5'
+
+   
+
 end
