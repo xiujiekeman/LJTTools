@@ -1,6 +1,10 @@
 {
   "name": "LJTTools",
+<<<<<<< Updated upstream
   "version": "0.0.22",
+=======
+  "version": "0.0.2",
+>>>>>>> Stashed changes
   "summary": "A short description of LJTTools.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/xiujiekeman/LJTTools",
@@ -13,7 +17,11 @@
   },
   "source": {
     "git": "https://github.com/xiujiekeman/LJTTools.git",
+<<<<<<< Updated upstream
     "tag": "0.0.22"
+=======
+    "tag": "0.0.2"
+>>>>>>> Stashed changes
   },
   "platforms": {
     "ios": "8.0"
