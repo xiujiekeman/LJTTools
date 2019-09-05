@@ -8,11 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LJTTools'
-<<<<<<< Updated upstream
   s.version          = '0.0.22'
-=======
-  s.version          = '0.0.2'
->>>>>>> Stashed changes
   s.summary          = 'A short description of LJTTools.'
 
 # This description is used to generate tags and improve search results.
