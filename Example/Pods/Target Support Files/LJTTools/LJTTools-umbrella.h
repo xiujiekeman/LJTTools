@@ -11,7 +11,9 @@
 #endif
 
 #import "LJTTools.h"
+#import "LJTMacro.h"
 #import "LJTUIUtil.h"
+#import "LJTUtil.h"
 
 FOUNDATION_EXPORT double LJTToolsVersionNumber;
 FOUNDATION_EXPORT const unsigned char LJTToolsVersionString[];

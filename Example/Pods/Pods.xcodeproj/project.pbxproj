@@ -9,19 +9,19 @@
 /* Begin PBXBuildFile section */
 		02325985FC5FAD551C3D744AB2025202 /* Pods-LJTTools_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 79A624295B3C857FC6472CD68613AEA1 /* Pods-LJTTools_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0DE58A03C49473726EF5AD1E40C404F3 /* Pods-LJTTools_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 051775E94E52B4F7ADA93F6108E47615 /* Pods-LJTTools_Example-dummy.m */; };
+		186C1C81E66ECFF5612499D7936793D8 /* LJTUIUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 713051DDF7402EEF8C01910F7E5ACA07 /* LJTUIUtil.m */; };
 		18B8C189F17867294397888130D43273 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		19B989AFCBD2CCA39ABE5E3977875177 /* LJTUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 36E18E42035EFE657263659BBBE280F3 /* LJTUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		24620319A1A5BD8D7F64D7819DE0DEFF /* LJTUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = BEA3910989BB543CF8BD75D5AF6A1EFC /* LJTUtil.m */; };
+		31C6F04F57164B7F4E0A83665F07B15D /* LJTTools-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 029F8467A975C15C49927847ECA6BE6A /* LJTTools-dummy.m */; };
+		3D3C8F963DC5E3C2872F1E819D582FF8 /* LJTUIUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 446F2D31744ED6E2E00B58A3B68D3D5F /* LJTUIUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3E8C13CA92E0FCAAEAA1D2DF0B620D55 /* Pods-LJTTools_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 355494B38D518B32B3E4DA86AD3AD9F3 /* Pods-LJTTools_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4748473DEE159296CFB5B9E06ED5B42F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		6611F8D307701A3D081262483CD764D1 /* Pods-LJTTools_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 937F6F274E163E966F8339936F2BBBBF /* Pods-LJTTools_Tests-dummy.m */; };
-		701B28DB0016BAA14026B4F0FC99491A /* LJTTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 7AF8046DC5C59A03D4829AD49A40D96C /* LJTTools.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		849C635739B73DD01BF57ED3FC5CE384 /* LJTUIUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 76490528A980B86640623E65F198C8F0 /* LJTUIUtil.m */; };
-		B44A694112A1CC2D2A9196A9C0C8E1FE /* LJTTools-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5FE54BA70179578C95F656691EC8A850 /* LJTTools-dummy.m */; };
-		B948E2D362FEAA98C1B89CDB2C77A0C8 /* LJTTools-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EBD1E7B85B8D1490CF806D26BAEFBE27 /* LJTTools-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BBC665A69C8FC26CD1F5F48CA9F708ED /* LJTUIUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 57548573D9440565BA6CBF31879F368B /* LJTUIUtil.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D0A5D2D12321EB1F00C03D91 /* LJTUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = D0A5D2CF2321EB1F00C03D91 /* LJTUtil.h */; };
-		D0A5D2D22321EB1F00C03D91 /* LJTUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = D0A5D2D02321EB1F00C03D91 /* LJTUtil.m */; };
-		D0A5D2D42321EFFF00C03D91 /* LJTMacro.h in Headers */ = {isa = PBXBuildFile; fileRef = D0A5D2D32321EFFF00C03D91 /* LJTMacro.h */; };
-		D725268FC409CF3EA08D0ECAAEC24FF0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		6B05EC8D7F11A2A900CF342C7312569E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		A746BA7B8B4AFD52F650D2BED265D56A /* LJTMacro.h in Headers */ = {isa = PBXBuildFile; fileRef = E6CD0D7F4FE367D401C67AA5F19358F3 /* LJTMacro.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B20368E6E986F0330813F011888E151B /* LJTTools.h in Headers */ = {isa = PBXBuildFile; fileRef = 9E7E95A6882385B000F0AB6C06B27BA0 /* LJTTools.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D2D4F76AFF0D460767C6586C3CB02DAB /* LJTTools-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9FBF7DCBB58E9328DF43DDFF257463FA /* LJTTools-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,7 +29,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 561D21127B918A188042E32DAF8D432E;
+			remoteGlobalIDString = 93691DF8382CDF5691A0BD0EF74D9BBC;
 			remoteInfo = LJTTools;
 		};
 		FD61756F2CEE2B2F603C64D7A70A12F0 /* PBXContainerItemProxy */ = {
@@ -42,54 +42,46 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		029F8467A975C15C49927847ECA6BE6A /* LJTTools-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LJTTools-dummy.m"; sourceTree = "<group>"; };
 		051775E94E52B4F7ADA93F6108E47615 /* Pods-LJTTools_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LJTTools_Example-dummy.m"; sourceTree = "<group>"; };
 		0839B27D7D7DD853E7996B3690501BB1 /* Pods-LJTTools_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LJTTools_Example-Info.plist"; sourceTree = "<group>"; };
+		1C242FCFB8EFE32286A9026E45C1AB0F /* LJTTools.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LJTTools.modulemap; sourceTree = "<group>"; };
 		1E90E904FD50D7AF7040F61A1470DC6F /* Pods-LJTTools_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LJTTools_Example.modulemap"; sourceTree = "<group>"; };
 		1EBDE4485B3E519661614E2E99E33955 /* Pods-LJTTools_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LJTTools_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		355494B38D518B32B3E4DA86AD3AD9F3 /* Pods-LJTTools_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LJTTools_Tests-umbrella.h"; sourceTree = "<group>"; };
-		384F8BC539C05103A58C6D0A52262DE9 /* Pods_LJTTools_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LJTTools_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		458F5D7A68C01F4BB488D80986AF63EE /* Pods_LJTTools_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LJTTools_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		36E18E42035EFE657263659BBBE280F3 /* LJTUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LJTUtil.h; sourceTree = "<group>"; };
+		384F8BC539C05103A58C6D0A52262DE9 /* Pods_LJTTools_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LJTTools_Tests.framework; path = "Pods-LJTTools_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		446F2D31744ED6E2E00B58A3B68D3D5F /* LJTUIUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LJTUIUtil.h; sourceTree = "<group>"; };
+		458F5D7A68C01F4BB488D80986AF63EE /* Pods_LJTTools_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LJTTools_Example.framework; path = "Pods-LJTTools_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		49434E7592839DDED227E170696622C9 /* Pods-LJTTools_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LJTTools_Example-frameworks.sh"; sourceTree = "<group>"; };
 		4C1477A40A01C822DA75422374FCF2A5 /* Pods-LJTTools_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LJTTools_Tests-Info.plist"; sourceTree = "<group>"; };
 		57482C438F39FE6C7AE8091E2B569FEA /* Pods-LJTTools_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LJTTools_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		57548573D9440565BA6CBF31879F368B /* LJTUIUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LJTUIUtil.h; sourceTree = "<group>"; };
-		5FE54BA70179578C95F656691EC8A850 /* LJTTools-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LJTTools-dummy.m"; sourceTree = "<group>"; };
+		63ADAD6A70EEA46B668FEB9795AE327B /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		713051DDF7402EEF8C01910F7E5ACA07 /* LJTUIUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LJTUIUtil.m; sourceTree = "<group>"; };
 		726E40479D94C676E6FD1C5DD830563E /* Pods-LJTTools_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LJTTools_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		76490528A980B86640623E65F198C8F0 /* LJTUIUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LJTUIUtil.m; sourceTree = "<group>"; };
+		766616FB4641DCE425EEFF472C69770A /* LJTTools.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LJTTools.xcconfig; sourceTree = "<group>"; };
 		79A624295B3C857FC6472CD68613AEA1 /* Pods-LJTTools_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LJTTools_Example-umbrella.h"; sourceTree = "<group>"; };
 		7AD0048073DB7D69B28EA6D490F94274 /* Pods-LJTTools_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-LJTTools_Tests.modulemap"; sourceTree = "<group>"; };
-		7AF8046DC5C59A03D4829AD49A40D96C /* LJTTools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LJTTools.h; path = LJTTools/Classes/LJTTools.h; sourceTree = "<group>"; };
 		823EDF39FEF8C96955EC1000F63B3C92 /* Pods-LJTTools_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LJTTools_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		8DBE2ABE7389E9BD86ED72F2D4E08586 /* LJTTools.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = LJTTools.modulemap; sourceTree = "<group>"; };
+		84BE7530352B3D0F312CFC3F9E08ECB4 /* LJTTools-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LJTTools-prefix.pch"; sourceTree = "<group>"; };
 		937F6F274E163E966F8339936F2BBBBF /* Pods-LJTTools_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LJTTools_Tests-dummy.m"; sourceTree = "<group>"; };
-		9A092234CD299D3D89B9FDD57E3EED62 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A5BBC9CB1609362D4E90D41BD7B71664 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		AE9657BAD4D81E9E09DB2F43D1F674C0 /* LJTTools.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LJTTools.xcconfig; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9E7E95A6882385B000F0AB6C06B27BA0 /* LJTTools.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LJTTools.h; path = LJTTools/Classes/LJTTools.h; sourceTree = "<group>"; };
+		9FBF7DCBB58E9328DF43DDFF257463FA /* LJTTools-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LJTTools-umbrella.h"; sourceTree = "<group>"; };
+		B05FEC28857BC6ED0851DD30EF59E0B3 /* LJTTools.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = LJTTools.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BA483AC581BDEB8BC7D3191FB4138253 /* Pods-LJTTools_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LJTTools_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		BA6B7157FA9B520790D8EA76AACE7D7E /* LJTTools-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LJTTools-Info.plist"; sourceTree = "<group>"; };
+		BEA3910989BB543CF8BD75D5AF6A1EFC /* LJTUtil.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = LJTUtil.m; sourceTree = "<group>"; };
 		BF40EBC2C5CE7D463A507C56B4EFC35A /* Pods-LJTTools_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LJTTools_Example.release.xcconfig"; sourceTree = "<group>"; };
-		CC0E8800FBAAAF396D73B85468F202E0 /* LJTTools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LJTTools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC0E8800FBAAAF396D73B85468F202E0 /* LJTTools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = LJTTools.framework; path = LJTTools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF11DBA9214E65AD348A0B72C9F8102E /* Pods-LJTTools_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LJTTools_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		D0A5D2CF2321EB1F00C03D91 /* LJTUtil.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LJTUtil.h; sourceTree = "<group>"; };
-		D0A5D2D02321EB1F00C03D91 /* LJTUtil.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LJTUtil.m; sourceTree = "<group>"; };
-		D0A5D2D32321EFFF00C03D91 /* LJTMacro.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LJTMacro.h; sourceTree = "<group>"; };
-		EBD1E7B85B8D1490CF806D26BAEFBE27 /* LJTTools-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LJTTools-umbrella.h"; sourceTree = "<group>"; };
-		EFB77E1E08BE46AE8C99A87D8CABEFA8 /* LJTTools-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LJTTools-prefix.pch"; sourceTree = "<group>"; };
-		F227955CB0B6E686FA4A28C053649EF8 /* LJTTools.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = LJTTools.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D007F077ACBBB5A56046A5E74A6E1932 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		E1BCF2D32CCF5FDEB296580CC646C455 /* LJTTools-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "LJTTools-Info.plist"; sourceTree = "<group>"; };
+		E6CD0D7F4FE367D401C67AA5F19358F3 /* LJTMacro.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = LJTMacro.h; sourceTree = "<group>"; };
 		FFF668FB7956A7513BC7C8CB940B662B /* Pods-LJTTools_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LJTTools_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		436277D4ADB2F3FC06C3272A4929BE67 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D725268FC409CF3EA08D0ECAAEC24FF0 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		9B7D9AD776BBE1E18E95DEBF23CDD860 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -106,6 +98,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		FE6E8328EC95EA09ECD197DA2123CC09 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B05EC8D7F11A2A900CF342C7312569E /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -117,20 +117,6 @@
 				384F8BC539C05103A58C6D0A52262DE9 /* Pods_LJTTools_Tests.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		15A4AAF814ADF4343130889361C7A233 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				8DBE2ABE7389E9BD86ED72F2D4E08586 /* LJTTools.modulemap */,
-				AE9657BAD4D81E9E09DB2F43D1F674C0 /* LJTTools.xcconfig */,
-				5FE54BA70179578C95F656691EC8A850 /* LJTTools-dummy.m */,
-				BA6B7157FA9B520790D8EA76AACE7D7E /* LJTTools-Info.plist */,
-				EFB77E1E08BE46AE8C99A87D8CABEFA8 /* LJTTools-prefix.pch */,
-				EBD1E7B85B8D1490CF806D26BAEFBE27 /* LJTTools-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/LJTTools";
 			sourceTree = "<group>";
 		};
 		18D100667A95592006CC49110C0CE0A0 /* Pods-LJTTools_Tests */ = {
@@ -149,14 +135,41 @@
 			path = "Target Support Files/Pods-LJTTools_Tests";
 			sourceTree = "<group>";
 		};
-		2B019257898414C57D4A8F06F24B88F4 /* Pod */ = {
+		4310B94B1C422ACFD060663CC8EDC4FC /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				9A092234CD299D3D89B9FDD57E3EED62 /* LICENSE */,
-				F227955CB0B6E686FA4A28C053649EF8 /* LJTTools.podspec */,
-				A5BBC9CB1609362D4E90D41BD7B71664 /* README.md */,
+				D007F077ACBBB5A56046A5E74A6E1932 /* LICENSE */,
+				B05FEC28857BC6ED0851DD30EF59E0B3 /* LJTTools.podspec */,
+				63ADAD6A70EEA46B668FEB9795AE327B /* README.md */,
 			);
 			name = Pod;
+			sourceTree = "<group>";
+		};
+		57A70CF12DD6C7DD0C3586B969596AB8 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1C242FCFB8EFE32286A9026E45C1AB0F /* LJTTools.modulemap */,
+				766616FB4641DCE425EEFF472C69770A /* LJTTools.xcconfig */,
+				029F8467A975C15C49927847ECA6BE6A /* LJTTools-dummy.m */,
+				E1BCF2D32CCF5FDEB296580CC646C455 /* LJTTools-Info.plist */,
+				84BE7530352B3D0F312CFC3F9E08ECB4 /* LJTTools-prefix.pch */,
+				9FBF7DCBB58E9328DF43DDFF257463FA /* LJTTools-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/LJTTools";
+			sourceTree = "<group>";
+		};
+		587E7DB41363E0CE159159F13DDCB4CA /* LJTTools */ = {
+			isa = PBXGroup;
+			children = (
+				E6CD0D7F4FE367D401C67AA5F19358F3 /* LJTMacro.h */,
+				446F2D31744ED6E2E00B58A3B68D3D5F /* LJTUIUtil.h */,
+				713051DDF7402EEF8C01910F7E5ACA07 /* LJTUIUtil.m */,
+				36E18E42035EFE657263659BBBE280F3 /* LJTUtil.h */,
+				BEA3910989BB543CF8BD75D5AF6A1EFC /* LJTUtil.m */,
+			);
+			name = LJTTools;
+			path = LJTTools/Classes/LJTTools;
 			sourceTree = "<group>";
 		};
 		5973F84EE13A37D6DF2A5CEADE1D1CF7 /* Pods-LJTTools_Example */ = {
@@ -176,6 +189,18 @@
 			path = "Target Support Files/Pods-LJTTools_Example";
 			sourceTree = "<group>";
 		};
+		87B726D76D61F44763956EBA7669CBA9 /* LJTTools */ = {
+			isa = PBXGroup;
+			children = (
+				9E7E95A6882385B000F0AB6C06B27BA0 /* LJTTools.h */,
+				587E7DB41363E0CE159159F13DDCB4CA /* LJTTools */,
+				4310B94B1C422ACFD060663CC8EDC4FC /* Pod */,
+				57A70CF12DD6C7DD0C3586B969596AB8 /* Support Files */,
+			);
+			name = LJTTools;
+			path = ../..;
+			sourceTree = "<group>";
+		};
 		910E5FA386598D8944570FF57215C592 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -183,19 +208,6 @@
 				18D100667A95592006CC49110C0CE0A0 /* Pods-LJTTools_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		B3699D73DD6BD43616ABEA24F5783BC6 /* LJTTools */ = {
-			isa = PBXGroup;
-			children = (
-				57548573D9440565BA6CBF31879F368B /* LJTUIUtil.h */,
-				76490528A980B86640623E65F198C8F0 /* LJTUIUtil.m */,
-				D0A5D2CF2321EB1F00C03D91 /* LJTUtil.h */,
-				D0A5D2D02321EB1F00C03D91 /* LJTUtil.m */,
-				D0A5D2D32321EFFF00C03D91 /* LJTMacro.h */,
-			);
-			name = LJTTools;
-			path = LJTTools/Classes/LJTTools;
 			sourceTree = "<group>";
 		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
@@ -228,38 +240,14 @@
 		D78834F14E1BD3B502BB4E47EBC516D7 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				F24001CCA0292E96038001225B9AA5A3 /* LJTTools */,
+				87B726D76D61F44763956EBA7669CBA9 /* LJTTools */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		F24001CCA0292E96038001225B9AA5A3 /* LJTTools */ = {
-			isa = PBXGroup;
-			children = (
-				7AF8046DC5C59A03D4829AD49A40D96C /* LJTTools.h */,
-				B3699D73DD6BD43616ABEA24F5783BC6 /* LJTTools */,
-				2B019257898414C57D4A8F06F24B88F4 /* Pod */,
-				15A4AAF814ADF4343130889361C7A233 /* Support Files */,
-			);
-			name = LJTTools;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		3427751C3AEE8D20B6C5807012AD86A7 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B948E2D362FEAA98C1B89CDB2C77A0C8 /* LJTTools-umbrella.h in Headers */,
-				701B28DB0016BAA14026B4F0FC99491A /* LJTTools.h in Headers */,
-				BBC665A69C8FC26CD1F5F48CA9F708ED /* LJTUIUtil.h in Headers */,
-				D0A5D2D42321EFFF00C03D91 /* LJTMacro.h in Headers */,
-				D0A5D2D12321EB1F00C03D91 /* LJTUtil.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		5FC31B2BB5A38F304B05D26DA3D38E5C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -273,6 +261,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				3E8C13CA92E0FCAAEAA1D2DF0B620D55 /* Pods-LJTTools_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7F70A1286B41C93264D0324E32566990 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A746BA7B8B4AFD52F650D2BED265D56A /* LJTMacro.h in Headers */,
+				D2D4F76AFF0D460767C6586C3CB02DAB /* LJTTools-umbrella.h in Headers */,
+				B20368E6E986F0330813F011888E151B /* LJTTools.h in Headers */,
+				3D3C8F963DC5E3C2872F1E819D582FF8 /* LJTUIUtil.h in Headers */,
+				19B989AFCBD2CCA39ABE5E3977875177 /* LJTUtil.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,24 +298,6 @@
 			productReference = 458F5D7A68C01F4BB488D80986AF63EE /* Pods_LJTTools_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		561D21127B918A188042E32DAF8D432E /* LJTTools */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = EFF24E472344E2B30556316EFE456D7B /* Build configuration list for PBXNativeTarget "LJTTools" */;
-			buildPhases = (
-				3427751C3AEE8D20B6C5807012AD86A7 /* Headers */,
-				09E67F39D0E798A7D083E3FEE08503DF /* Sources */,
-				436277D4ADB2F3FC06C3272A4929BE67 /* Frameworks */,
-				45C3867197A249123AB45321766B43DF /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = LJTTools;
-			productName = LJTTools;
-			productReference = CC0E8800FBAAAF396D73B85468F202E0 /* LJTTools.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		8838ABB68E034CE2F6E7A51C4284CE1E /* Pods-LJTTools_Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 09D4EB4AB71B8ED43A347F0E1102AEFA /* Build configuration list for PBXNativeTarget "Pods-LJTTools_Tests" */;
@@ -333,6 +315,24 @@
 			name = "Pods-LJTTools_Tests";
 			productName = "Pods-LJTTools_Tests";
 			productReference = 384F8BC539C05103A58C6D0A52262DE9 /* Pods_LJTTools_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		93691DF8382CDF5691A0BD0EF74D9BBC /* LJTTools */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0388A797C0066FD759F7BC0BA36E6668 /* Build configuration list for PBXNativeTarget "LJTTools" */;
+			buildPhases = (
+				7F70A1286B41C93264D0324E32566990 /* Headers */,
+				92CC84B158830664C62048787E5B2DC0 /* Sources */,
+				FE6E8328EC95EA09ECD197DA2123CC09 /* Frameworks */,
+				438589E8681317E7BF93DDED8CF8D25B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LJTTools;
+			productName = LJTTools;
+			productReference = CC0E8800FBAAAF396D73B85468F202E0 /* LJTTools.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -356,7 +356,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				561D21127B918A188042E32DAF8D432E /* LJTTools */,
+				93691DF8382CDF5691A0BD0EF74D9BBC /* LJTTools */,
 				0177874CF482095AF379171F1C5FA40A /* Pods-LJTTools_Example */,
 				8838ABB68E034CE2F6E7A51C4284CE1E /* Pods-LJTTools_Tests */,
 			);
@@ -364,7 +364,7 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		45C3867197A249123AB45321766B43DF /* Resources */ = {
+		438589E8681317E7BF93DDED8CF8D25B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -388,21 +388,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		09E67F39D0E798A7D083E3FEE08503DF /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B44A694112A1CC2D2A9196A9C0C8E1FE /* LJTTools-dummy.m in Sources */,
-				D0A5D2D22321EB1F00C03D91 /* LJTUtil.m in Sources */,
-				849C635739B73DD01BF57ED3FC5CE384 /* LJTUIUtil.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		402CFE35B1F47C0ED9A657B45434E684 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				6611F8D307701A3D081262483CD764D1 /* Pods-LJTTools_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		92CC84B158830664C62048787E5B2DC0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				31C6F04F57164B7F4E0A83665F07B15D /* LJTTools-dummy.m in Sources */,
+				186C1C81E66ECFF5612499D7936793D8 /* LJTUIUtil.m in Sources */,
+				24620319A1A5BD8D7F64D7819DE0DEFF /* LJTUtil.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -426,7 +426,7 @@
 		7C63CDE9A24641BB4AF7095FE4EE9458 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = LJTTools;
-			target = 561D21127B918A188042E32DAF8D432E /* LJTTools */;
+			target = 93691DF8382CDF5691A0BD0EF74D9BBC /* LJTTools */;
 			targetProxy = D1E86EA989C56B0C76A741DA90985F54 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -464,6 +464,38 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		3DD8ADDB83AF5906F6B2758609142EE7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 766616FB4641DCE425EEFF472C69770A /* LJTTools.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/LJTTools/LJTTools-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/LJTTools/LJTTools-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/LJTTools/LJTTools.modulemap";
+				PRODUCT_MODULE_NAME = LJTTools;
+				PRODUCT_NAME = LJTTools;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		4BE66A09A74FD25164AAB3C2645B9B93 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -518,15 +550,16 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
 		};
-		7AF258716692E7D0C2C13CEB9D4E94A1 /* Debug */ = {
+		79A0D44AA9E6A24138B5CC4CD6DDF40A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AE9657BAD4D81E9E09DB2F43D1F674C0 /* LJTTools.xcconfig */;
+			baseConfigurationReference = 766616FB4641DCE425EEFF472C69770A /* LJTTools.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -687,38 +720,6 @@
 			};
 			name = Release;
 		};
-		C1A31CFEC52F92F60E7F9994DC9F32C3 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = AE9657BAD4D81E9E09DB2F43D1F674C0 /* LJTTools.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/LJTTools/LJTTools-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/LJTTools/LJTTools-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/LJTTools/LJTTools.modulemap";
-				PRODUCT_MODULE_NAME = LJTTools;
-				PRODUCT_NAME = LJTTools;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		DE0B6AF61D67F2416B87A4FDA8A09A31 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 726E40479D94C676E6FD1C5DD830563E /* Pods-LJTTools_Example.debug.xcconfig */;
@@ -755,6 +756,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		0388A797C0066FD759F7BC0BA36E6668 /* Build configuration list for PBXNativeTarget "LJTTools" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				79A0D44AA9E6A24138B5CC4CD6DDF40A /* Debug */,
+				3DD8ADDB83AF5906F6B2758609142EE7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		09D4EB4AB71B8ED43A347F0E1102AEFA /* Build configuration list for PBXNativeTarget "Pods-LJTTools_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -778,15 +788,6 @@
 			buildConfigurations = (
 				DE0B6AF61D67F2416B87A4FDA8A09A31 /* Debug */,
 				8AF21DD1D90FEB3A1A9D2CA9C645CEE3 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		EFF24E472344E2B30556316EFE456D7B /* Build configuration list for PBXNativeTarget "LJTTools" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7AF258716692E7D0C2C13CEB9D4E94A1 /* Debug */,
-				C1A31CFEC52F92F60E7F9994DC9F32C3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
