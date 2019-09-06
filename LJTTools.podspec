@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LJTTools'
-  s.version          = '0.0.23'
+  s.version          = '0.0.24'
   s.summary          = 'A short description of LJTTools.'
 
 # This description is used to generate tags and improve search results.
